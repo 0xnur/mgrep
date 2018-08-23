@@ -1,0 +1,12 @@
+http://www.google.com
+1.1.1.1
+this is line with not valid IP 654.155.1.1
+this a line with url https://abc.com/withurl
+test.com.au
+test.ru
+abc.com.tr
+subdomain.test.com
+abc@abc.com.tr
+email@subdomain.test.com
+email@test.com
+email.email@test.com
